@@ -1,0 +1,1056 @@
+/* #Media Queries Responsive
+================================================== */
+
+/* Desktop large
+------------------------- */
+
+@media (min-width: 1200px) {
+}
+
+/* Desktop
+------------------------- */
+
+@media (min-width: 980px) and (max-width: 1199px) {
+  /*header start*/
+  #header .header-menu-bar ul li {
+    margin-right: 2px;
+  }
+  #fdw nav ul li a:link,
+  #fdw nav ul li a:visited {
+    font: normal 20px "Yanone Kaffeesatz", sans-serif;
+  }
+  #fdw nav ul li {
+    margin-left: 15px;
+  }
+  .logo img {
+    margin-top: 18px;
+  }
+  #header .header-menu-bar ul {
+    margin-top: 20px;
+  }
+  /*header end*/
+  .our-profile-banner-container .transparent-div p {
+    font-size: 28px;
+    padding: 15px 5px;
+  }
+  /*footer start*/
+  .pre-footer .content ul.information-ul {
+    width: auto;
+  }
+  .footer .content ul.left-ul li {
+    margin-right: 0px;
+  }
+  /*footer start*/
+  /*index start*/
+  #banner-holder {
+    min-height: 400px;
+  }
+  #banner-holder .secound-slide h2,
+  #banner-holder .third-slide h2,
+  #banner-holder .fourth-slide h2,
+  #banner-holder h1 {
+    margin-top: 100px;
+    font-size: 32px;
+    line-height: 40px;
+  }
+  #banner-holder p {
+    font-size: 16px;
+  }
+  .info-thumb ul {
+    margin: 0px auto;
+    display: table;
+  }
+  .info-thumb ul li:last-child {
+    margin: 0px auto;
+    display: table;
+  }
+  .product-container ul li,
+  .product-container ul li.li-partial,
+  .product-container ul li.li-half {
+    width: 45%;
+  }
+  .product-container ul li:last-child {
+    margin-left: 23%;
+  }
+  .one-stop-container p {
+    width: 100%;
+  }
+  .one-stop-container .image-container {
+    width: 100%;
+    margin-top: 40px;
+  }
+  /*index end*/
+  /*Our Products start*/
+  .products-gallery ul {
+    width: 700px;
+  }
+  /*Our Products end*/
+  /*Products Details start*/
+  .related-products-container ul.topic-list li {
+    font-size: 12px;
+    width: 148px;
+    padding: 8px;
+  }
+  .product-details-container .other-products hr {
+    width: 55%;
+  }
+  .owl-carousel .owl-item {
+    margin-right: 5px;
+  }
+  .thread-brand-ul li {
+    display: inline-block;
+  }
+  .thread-brand-ul li.divider {
+    display: none;
+  }
+  .our-profile-container ul.hanger-catalogue-ul {
+    margin-top: 30px;
+  }
+  /*Products Details end*/
+  /*About Us Start*/
+  .about-us-container .right-content .image-div ul li ul li {
+    display: inline-block;
+  }
+  .operation-strength-nav-container .about-us-nav li {
+    font-size: 16px;
+    margin-right: 50px;
+  }
+  .operation-strength-nav-container .about-us-nav li.active {
+    font-size: 16px;
+  }
+  /*About Us End*/
+  /* Board of Director Start */
+  .og-details p {
+    font-size: 13px;
+  }
+  /* Board of Director End */
+  /*Investor Information Start*/
+  .investor-information-nav-container .about-us-nav li.active {
+    font-size: 16px;
+  }
+  .investor-information-nav-container .about-us-nav li {
+    font-size: 16px;
+    margin-right: 40px;
+  }
+  .about-us-nav-container .about-us-nav-new li {
+    font-size: 16px;
+    margin-right: 20px;
+  }
+  /*Investor Information End*/
+  /*Contact US Start*/
+  .contact-us-container .top ul {
+    width: 58%;
+  }
+  /*Contact US End*/
+  /*Press Talk Start*/
+  .press-talk-right-container {
+    display: none;
+  }
+  .press-talk-ul li .past_news_date {
+    width: 10%;
+  }
+  .press-talk-ul li p {
+    width: 85%;
+  }
+  /*Press Talk End*/
+  /* CSR Start */
+  .csr-ul {
+    width: 90%;
+  }
+  /* CSR End */
+}
+
+/* Tablet to desktop
+------------------------- */
+
+@media (min-width: 768px) and (max-width: 979px) {
+  /*header start*/
+  .header-navbar-container {
+    display: none;
+  }
+  #header a.mobilemenu,
+  .mobile-menu-logo {
+    display: block;
+  }
+  /*header end*/
+  .our-profile-banner-container .transparent-div p {
+    font-size: 28px;
+    padding: 10px 5px;
+  }
+  /*footer start*/
+  .pre-footer .content ul.information-ul {
+    width: auto;
+  }
+  .footer .content ul.left-ul li {
+    margin-right: 0px;
+  }
+  /*footer start*/
+  /*index start*/
+  #banner-holder {
+    min-height: 320px;
+  }
+  #banner-holder .secound-slide h2,
+  #banner-holder .third-slide h2,
+  #banner-holder .fourth-slide h2,
+  #banner-holder h1 {
+    margin-top: 80px;
+    font-size: 28px;
+    line-height: 35px;
+  }
+  #banner-holder p {
+    font-size: 14px;
+  }
+  .info-thumb ul {
+    margin: 0px auto;
+    display: table;
+  }
+  .info-thumb ul li:last-child {
+    margin: 0px auto;
+    display: table;
+  }
+  .product-container ul li,
+  .product-container ul li.li-partial,
+  .product-container ul li.li-half {
+    width: 45%;
+  }
+  .product-container ul li:last-child {
+    margin-left: 23%;
+  }
+  .one-stop-container p {
+    width: 100%;
+  }
+  .one-stop-container .image-container {
+    width: 100%;
+    margin-top: 40px;
+  }
+  /*index end*/
+  /*About Us start*/
+  .about-us-nav-container {
+    display: none;
+  }
+  .product-details-container .other-products hr {
+    width: 45%;
+  }
+  .about-us-container {
+    margin-top: 30px;
+  }
+  .about-us-container .right-content .image-div ul li ul li {
+    display: inline-block;
+  }
+  /*About Us end*/
+  /*Investor Information Start*/
+  .reports-and-information-container .reports-and-information-ul li {
+    font-size: 16px;
+  }
+  .reports-and-information-container .financial-statements-div {
+    width: 100%;
+    margin: 0px auto;
+  }
+  /*Investor Information End*/
+  /*Our Products start*/
+  .products-gallery ul li {
+    margin-right: 10px;
+  }
+  /*Our Products end*/
+  /*Products Details start*/
+  .product-details-container .other-carousel,
+  .product-details-container .other-products,
+  .other-navigation {
+    display: none !important;
+  }
+  .sewing-thread-text-container {
+    min-height: inherit !important;
+  }
+  .product-text-container {
+    min-height: inherit;
+  }
+  .our-profile-container ul.hanger-catalogue-ul {
+    margin-bottom: 50px;
+  }
+  .publication-ul li {
+    font-size: 14px;
+  }
+  /*Products Details end*/
+  /*Contact US Start*/
+  .contact-us-container .top ul {
+    width: 75%;
+  }
+  .contact-us-container .write ul li textarea {
+    width: 365px !important;
+  }
+  .contact-us-container .address-div ul li {
+    font-size: 15px;
+  }
+  /*Contact US End*/
+  /* Board of Director Start */
+  .og-details p {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .og-expander h3 {
+    font-size: 22px;
+  }
+  .og-details h5 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  /* Board of Director End */
+  /*Recognitions Start*/
+  .recognition-container ul li {
+    margin-right: 50px !important;
+  }
+  /*Recognitions End*/
+  /*Press Talk Start*/
+  .press-talk-ul li .past_news_date {
+    width: 10%;
+  }
+  .press-talk-ul li p {
+    width: 80%;
+  }
+  .press-talk-right-container {
+    display: none;
+  }
+  /*Press Talk End*/
+  .production-facility-image {
+    margin-top: 20px !important;
+  }
+  .production-facility-detail {
+    margin-top: 15px;
+  }
+  .management_team_tab_mobile {
+    display: block;
+  }
+  .management_team_desktop {
+    display: none;
+  }
+  /* CSR Start */
+  .csr-ul {
+    width: 78%;
+  }
+  /* CSR End */
+}
+
+/* All Mobile Sizes (devices and browser)
+------------------------- */
+
+@media only screen and (max-width: 767px) {
+  .alert {
+    display: table;
+    margin: 20px auto;
+  }
+  .mobile-li {
+    display: inline-block !important;
+  }
+  .large-li {
+    display: none !important;
+  }
+  /*header start*/
+  .header-navbar-container {
+    display: none;
+  }
+  #header a.mobilemenu,
+  .mobile-menu-logo {
+    display: block;
+  }
+  /*header end*/
+  .our-profile-banner-container .transparent-div p {
+    font-size: 23px;
+    padding: 11px 5px;
+  }
+  .our-profile-container .right-content .image-div .big-thumb {
+    height: auto;
+  }
+  /*footer start*/
+  .pre-footer .content {
+    margin-bottom: 30px;
+  }
+  .pre-footer .content ul {
+    margin: 0px auto;
+    width: auto !important;
+  }
+  .footer .content ul.left-ul li {
+    margin-right: 0px;
+  }
+  .footer .right-content {
+    text-align: left;
+  }
+  .footer .content ul.left-ul {
+    margin-top: 25px;
+  }
+  .footer {
+    padding-bottom: 12px;
+  }
+  /*footer end*/
+  /*body{overflow-x: hidden;}*/
+  /*index start*/
+  #banner-holder {
+    min-height: 250px;
+  }
+  #banner-holder .secound-slide h2,
+  #banner-holder .third-slide h2,
+  #banner-holder .fourth-slide h2,
+  #banner-holder h1 {
+    margin-top: 50px;
+    font-size: 26px;
+    line-height: 35px;
+  }
+  #banner-holder p {
+    font-size: 13px;
+  }
+  #banner-holder a.more {
+    display: none;
+  }
+  .info-thumb ul {
+    margin: 0px auto;
+    display: table;
+  }
+  .info-thumb ul li {
+    display: block;
+    margin-right: 0px;
+  }
+  .product-container ul li,
+  .product-container ul li.li-partial,
+  .product-container ul li.li-half {
+    width: 100%;
+  }
+  .product-container ul {
+    padding-left: 0px;
+  }
+  .pre-gallery-header p {
+    text-align: justify;
+    line-height: 20px;
+  }
+  .pre-gallery-header .header,
+  .pre-gallery-header .one-stop {
+    text-align: center;
+  }
+  .one-stop-container p {
+    width: 100%;
+  }
+  .one-stop-container .image-container {
+    /*float: none; */
+    width: 100%;
+    margin-top: 40px;
+  }
+  /*index end*/
+  /*Our Products start*/
+  .products-gallery ul {
+    width: 325px;
+  }
+  /*Our Products end*/
+  /*Products Details start*/
+  .related-products-container ul.topic-list li {
+    font-size: 12px;
+    width: 142px;
+    padding: 8px 2px;
+    margin-right: 5px;
+  }
+  .owl-carousel .owl-item {
+    margin-right: 5px;
+  }
+  .product-details-banner-container .left-container,
+  .product-details-banner-container .right-container {
+    width: 100%;
+    float: none;
+  }
+  .product-details-banner-container .right-container img {
+    margin: 0px auto;
+    display: block;
+    padding: 0px 10px 10px;
+  }
+  .product-details-container .other-carousel,
+  .product-details-container .other-products,
+  .other-navigation {
+    display: none !important;
+  }
+  .product-details-banner-container ul li {
+    display: flex;
+  }
+  .related-products-container .product-header h1 {
+    font-size: 32px;
+  }
+  #mobile-gallery {
+    display: inline-block;
+  }
+  #gallery,
+  .product-details-container .related-navigation,
+  .product-details-container .related-carousel {
+    display: none !important;
+  }
+  #mobile-gallery-container {
+    display: block;
+  }
+  .our-profile-container ul.topic-list {
+    margin-bottom: 30px;
+  }
+  .related-products-container h1 {
+    float: none;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .our-profile-container ul {
+    margin: 0px auto;
+    display: table;
+  }
+  .contact-us-container .write input[type="submit"] {
+    display: block;
+    border: 0px;
+    /*text-indent: 1px;*/
+    width: 100px !important;
+    height: 50px !important;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+  }
+  .product-details-left-content #contact-specialist-container,
+  .product-details-left-content #send-query-container {
+    margin: 0px auto;
+  }
+  .our-profile-container ul.product-send-query-ul {
+    margin-bottom: 15px;
+  }
+  .product-details-container .thread-brand-ul {
+    margin: inherit;
+  }
+  .product-details-container .thread-brand-ul li {
+    display: block;
+    margin-right: 0px;
+  }
+  .product-details-container .thread-brand-ul li.divider {
+    display: none;
+  }
+  .sewing-thread-text-container {
+    min-height: inherit !important;
+  }
+  .products-brand-container {
+    margin: 0px auto;
+    display: block;
+    width: 200px;
+    text-align: center;
+  }
+  .our-profile-container ul.hanger-catalogue-ul {
+    margin: inherit !important;
+    margin-bottom: 50px !important;
+    margin-top: 20px !important;
+  }
+  .product-send-query-ul li ul.inner-form-title-ul {
+    margin-left: 0px;
+  }
+  .thread-brand-ul li img {
+    margin: 5px auto;
+  }
+  /*Products Details end*/
+  /*About Us start*/
+  .product-details-container .other-products hr {
+    display: none;
+  }
+  .product-details-container .other-carousel .item p {
+    font-size: 22px;
+  }
+  .product-details-banner-container ul {
+    margin-top: 30px;
+  }
+  .about-us-nav-container {
+    display: none;
+  }
+  .about-us-container {
+    margin-top: 30px;
+  }
+  .about-us-container .right-content .image-div ul li ul {
+    display: none;
+  }
+  .about-us-container ul {
+    margin-top: 20px;
+  }
+  .about-us-container .left-content hr {
+    margin: 20px auto;
+  }
+  .our-profile-container .left-content .detail-p1 {
+    font-size: 16px;
+  }
+  .about-us-container .left-content .vision-values-p {
+    text-align: center;
+  }
+  .publication-ul li span {
+    float: none;
+    display: block;
+    margin: 0px auto;
+  }
+  .publication-ul li {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .our-profile-container .left-content .publication-ul li hr {
+    margin: 0px auto;
+  }
+  .about-us-container .detail-top {
+    font-size: 16px;
+  }
+  /*About Us end*/
+  /* Board of Director Start */
+  .og-details p {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .og-expander h3 {
+    font-size: 22px;
+  }
+  .og-details h5 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  /* Board of Director End */
+  /*Investor Information Start*/
+  .about-us-container ul.reports-and-information-ul {
+    margin: inherit;
+    margin-bottom: 20px;
+    margin: 5px auto 20px;
+  }
+  .reports-and-information-container .reports-and-information-ul li {
+    font-size: 16px;
+  }
+  .reports-and-information-container .title-div {
+    font-size: 20px;
+    text-align: center;
+  }
+  .reports-and-information-container .financial-statements-div {
+    width: 100%;
+    margin: 0px auto;
+  }
+  /*Investor Information End*/
+  /*Contact US Start*/
+  .contact-us-container .top h1,
+  .contact-us-container .top h2 {
+    text-align: center;
+  }
+  .contact-us-container .top ul {
+    width: 100%;
+    margin: 0px auto 50px;
+  }
+  .contact-us-container .top ul li {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  .contact-us-container .address-div,
+  .contact-us-container .write {
+    width: 400px !important;
+    margin: 0px auto 30px;
+  }
+  .contact-us-container .write input[type="submit"] {
+    float: none;
+    font-size: 16px;
+    margin: 0px auto;
+  }
+  .contact-us-container .write ul li textarea {
+    width: 365px !important;
+  }
+  .contact-us-container .address-div ul li {
+    font-size: 15px;
+  }
+  /*Contact US End*/
+  /*Recognitions Start*/
+  .recognition-container ul li {
+    margin-right: 15px !important;
+  }
+  /*Recognitions End*/
+  .production-facility-image {
+    margin-top: 20px !important;
+  }
+  .management_team_tab_mobile {
+    display: block;
+  }
+  .management_team_desktop {
+    display: none;
+  }
+  /*KDS group Start*/
+  .reports-and-information-container .kds-group-ul {
+    margin: 0px auto;
+  }
+  .reports-and-information-container .kds-group-ul li {
+    display: block;
+    width: auto;
+  }
+  /*KDS group End*/
+  /*Press Talk Start*/
+  .press-talk-ul {
+    padding-left: 0px !important;
+  }
+  .press-talk-ul li {
+    text-align: center;
+  }
+  .press-talk-ul li .past_news_date {
+    display: block;
+    width: 20%;
+    margin: 5px auto 10px;
+  }
+  .press-talk-ul li p {
+    width: auto;
+  }
+  .press-talk-right-container {
+    display: none;
+  }
+  /*Press Talk End*/
+  /* CSR Start */
+  .csr-ul {
+    width: auto;
+  }
+  .csr-ul li {
+    display: block;
+    margin-right: 0px;
+  }
+  /* CSR End */
+}
+
+/* Mobile Landscape & Tablet Portrait
+------------------------- */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+}
+
+/* Mobile Portrait
+------------------------- */
+
+@media only screen and (max-width: 479px) {
+  .small-mobile-menu-logo {
+    display: block;
+    margin-top: 3px;
+  }
+  .small-mobile-menu-logo img {
+    width: 180px;
+  }
+  .mobile-menu-logo {
+    display: none;
+  }
+  strong {
+    font-weight: normal;
+  }
+  .our-profile-banner-container .transparent-div p {
+    font-size: 15px;
+    padding: 5px 4px;
+  }
+  .our-profile-banner-container {
+    width: 100%;
+  }
+  .our-profile-banner-container img {
+    height: 95px;
+  }
+  .alert {
+    width: 255px;
+    padding: 5px;
+  }
+  .bootslider .bs-pagination ul {
+    width: 220px;
+  }
+  .bootslider .bs-container {
+    min-height: 160px;
+  }
+  /*footer start*/
+  .pre-footer .content ul.information-ul li {
+    display: block;
+  }
+  .footer .content ul.left-ul {
+    margin-top: 45px;
+  }
+  .pre-footer .content {
+    margin-left: 0px;
+  }
+  .footer .content {
+    margin-left: 0px;
+    margin-top: -5px;
+  }
+  .footer {
+    padding-bottom: 10px;
+  }
+  .pre-footer {
+    padding-bottom: 0px;
+  }
+  .footer .content ul.left-ul li {
+    display: block;
+  }
+  /*footer end*/
+  /*index start*/
+  #banner-holder {
+    min-height: 100px;
+  }
+  #banner-holder .secound-slide h2,
+  #banner-holder .third-slide h2,
+  #banner-holder .fourth-slide h2,
+  #banner-holder h1 {
+    display: none;
+  }
+  #banner-holder p {
+    display: none;
+  }
+  .pre-gallery-header .company-title-support-div {
+    width: auto;
+  }
+  .pre-gallery-header .company-title-support-div ul li {
+    width: 70px;
+  }
+  .info-thumb .content-div .hover-up p {
+    font-weight: normal;
+  }
+  .pre-gallery-header .one-stop {
+    line-height: 25px;
+  }
+  .footer .content ul.left-ul li ul li {
+    font-size: 13px;
+  }
+  .product-container .product-header-div h1 {
+    font-size: 24px;
+    margin-top: 40px;
+  }
+  .product-container .product-header-div p {
+    font-size: 18px;
+    margin-top: 18px;
+  }
+  .info-thumb .content-div .hover-up h3 {
+    font-size: 20px;
+  }
+  .pre-gallery-header .one-stop {
+    text-align: center;
+  }
+  .pre-gallery-header .header {
+    text-align: center;
+    font-size: 34px;
+  }
+  .product-container ul {
+    margin-top: 35px;
+  }
+  .product-container ul li .content .product-title {
+    font-size: 20px;
+  }
+  .product-container ul li .content .read-more-p span {
+    margin-left: 15px;
+  }
+  .info-thumb .hide-text p {
+    font-size: 14px;
+  }
+  .info-thumb .content-div {
+    width: 260px;
+  }
+  .bootslider .bs-pagination {
+    bottom: 0px;
+  }
+  .bootslider .bs-pagination ul li a {
+    width: 15px;
+    height: 15px;
+  }
+  .one-stop-container .image-container {
+    margin-top: 0px;
+  }
+  .one-stop-container .image-container img {
+    margin: 40px auto 0;
+  }
+  /*index end*/
+  /*Our Products start*/
+  .products-gallery {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .products-gallery ul {
+    width: 270px;
+  }
+  .products-gallery ul li {
+    /*width: 270px;*/
+    margin-right: 0px;
+    display: block;
+    float: none;
+    margin-bottom: 25px;
+  }
+  .products-gallery .content {
+    width: 270px;
+  }
+  .product-services-top h1 {
+    font-size: 32px;
+  }
+  .product-services-top h4 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .products-gallery .content .title {
+    font-size: 21px;
+  }
+  /*Our Products end*/
+  /*Products Details start*/
+  .related-products-container ul.topic-list li {
+    display: block;
+    width: 215px;
+    margin: 0px auto;
+    margin-bottom: 3px;
+  }
+  .product-details-container .other-products h1 {
+    font-size: 25px;
+  }
+  .related-products-container h1 {
+    font-size: 20px;
+  }
+  .write input[type="text"],
+  .write input[type="email"],
+  .write textarea {
+    width: 255px !important;
+  }
+  .contact-us-container .write ul.main-ul {
+    margin: 0px auto;
+    display: table;
+    float: none;
+  }
+  .contact-us-container .write input[type="submit"] {
+    margin: 25px auto;
+    display: block;
+    /*float: none; */
+    width: 140px;
+    height: 138px;
+  }
+  .product-details-container .other-products {
+    margin-top: 225px;
+  }
+  .owl-carousel .owl-item {
+    margin-right: 5px;
+  }
+  .product-details-container .other-carousel .item p {
+    font-size: 20px;
+  }
+  .product-details-container .other-carousel .item p.find-detail {
+    font-size: 14px;
+  }
+  .our-profile-container .left-content .detail-p1,
+  .our-profile-container .left-content h3 {
+    text-align: center;
+  }
+  .pre-gallery-header .company-title-support-div {
+    height: 45px;
+  }
+  .product-details-banner-container p {
+    font-size: 17px;
+    width: 96%;
+    padding: 10px 10px;
+  }
+  .related-products-container .product-header h1 {
+    font-size: 28px;
+  }
+  .related-products-container .product-header h4 {
+    font-size: 16px;
+  }
+  .related-products-container .product-header hr {
+    margin: 15px auto 25px;
+  }
+  .product-details-banner-container ul li {
+    font-size: 13px;
+  }
+  .product-details-banner-container ul li {
+    display: block;
+  }
+  .product-details-banner-container ul {
+    padding-left: 10px;
+  }
+  .product-text-container {
+    margin: 0px auto;
+  }
+  .product-details-banner-container ul li span {
+    margin-right: 7px;
+  }
+  .contact-us-container .write input[type="submit"] {
+    float: none;
+  }
+  .contact-us-container .write input[type="submit"]#product-enquiry-submit {
+    float: none;
+    /*margin-top: 0px;*/
+  }
+  .related-products-container {
+    margin-top: 25px;
+  }
+  .product-send-query-ul li select {
+    width: 255px !important;
+  }
+  /*Products Details end*/
+  /*About Us Start*/
+  .about-us-container .left-content .detail-p1 {
+    text-align: justify;
+  }
+  .about-us-container .left-content ul.vision-values-ul {
+    padding-left: 30px;
+  }
+  .accordion li {
+    font-size: 16px;
+  }
+  /*About Us End*/
+  /*Contact Us Start*/
+  .contact-us-container .address-div,
+  .contact-us-container .write {
+    width: 100% !important;
+  }
+  .contact-us-container .top ul li {
+    display: block;
+  }
+  .contact-us-container .write ul li textarea {
+    width: 255px !important;
+  }
+  .contact-us-container .write ul.main-ul {
+    width: 255px;
+  }
+  .contact-us-container .top {
+    margin-top: 25px;
+  }
+  .contact-us-container .top h1 {
+    font-size: 30px;
+  }
+  /*Contact Us End*/
+  /*Recognitions Start*/
+  .gallery-container ul {
+    margin: 0px auto;
+    width: 140px;
+  }
+  .gallery-container ul li {
+    display: block;
+  }
+  .recognition-container ul li {
+    margin-right: 0px !important;
+    margin-bottom: 25px;
+  }
+  /*Recognitions End*/
+  /*Job Detail Start*/
+  .job-detail-container .title {
+    min-width: inherit;
+  }
+  .job-detail-container .job_openings_table {
+    width: auto;
+  }
+  .job_openings_table th,
+  .job_openings_table td {
+    padding: 2px;
+  }
+  /*Job Detail End*/
+  /*Production Facility Detail Start*/
+  .our-profile-container .left-content .production-facility-detail {
+    text-align: justify;
+  }
+  /*Production Facility Detail End*/
+  /* Gallery Start */
+  .mobile-hide {
+    display: none;
+  }
+  .gallery-top h2 {
+    font-size: 22px;
+  }
+  .gallery-top hr {
+    margin: 15px auto;
+  }
+  #mobile-gallery-container ul li {
+    margin-bottom: 20px;
+  }
+  /* Gallery End */
+  /*Back to top Start*/
+  #backTop {
+    width: 20px;
+    height: 20px;
+  }
+  /*Back to top End*/
+  /*Board of Director Start*/
+  .og-expander {
+    margin: 0px;
+  }
+  /*Board of Director End*/
+}

@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="https://www.kdsaccessories.com/images/icons/favicon.png">
+
+    <title>KDS Accessories</title>
+
+
+    <!--[if lt IE 9]>
+    <script type="text/javascript">
+        window.location = "http://www.microsoft.com/en-us/download/internet-explorer-9-details.aspx";
+    </script>
+    <![endif]-->
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://www.kdsaccessories.com/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Mobile menu -->
+    <link href="https://www.kdsaccessories.com/css/jquery.mmenu.all.css" type="text/css" rel="stylesheet">
+    <!-- Mobile menu end-->
+
+    <!-- Datepicker Start -->
+    <link rel="stylesheet" href="https://www.kdsaccessories.com/css/datepicker/jquery.datetimepicker.css"/>
+    <!-- Datepicker End -->
+
+    <!-- Thumb Start -->
+    <link rel="stylesheet" type="text/css" href="https://www.kdsaccessories.com/css/thumb/default.css"/>
+    <link rel="stylesheet" type="text/css" href="https://www.kdsaccessories.com/css/thumb/component.css"/>
+    <!-- Thumb End -->
+
+    <!-- Back to top Start-->
+    <link href="https://www.kdsaccessories.com/css/back-to-top/backTop.css" rel="stylesheet" type="text/css"/>
+    <!-- Back to top End-->
+
+    <!-- bxSlider CSS file -->
+    <link rel="stylesheet" href="https://www.kdsaccessories.com/css/jquery.bxslider.css"/>
+
+    <!-- Custom styles for this template -->
+    <link href="https://www.kdsaccessories.com/css/style.css" rel="stylesheet">
+
+    <link href="https://www.kdsaccessories.com/css/font-awesome.css" rel="stylesheet">
+    <link href="https://www.kdsaccessories.com/css/prettyPhoto.css" rel="stylesheet">
+    <link href="https://www.kdsaccessories.com/css/flexslider.css" type="text/css" rel="stylesheet">
+
+
+    <!-- Required Bootslider Styles -->
+    <link href="https://www.kdsaccessories.com/css/bootslider/animate.css" rel="stylesheet" type="text/css"/>
+    <link href="https://www.kdsaccessories.com/css/bootslider/bootslider.css" rel="stylesheet" type="text/css"/>
+    <!-- End -->
+
+    <!-- owl carousel -->
+    <link rel="stylesheet" type="text/css" href="https://www.kdsaccessories.com/css/owl-carousel/owl.carousel.css"/>
+    <!-- owl carousel End -->
+
+    <!-- Dropdown -->
+    <link rel="stylesheet" type="text/css" href="https://www.kdsaccessories.com/css/dropdown/styles.css" media="all"/>
+    <!-- Dropdown End -->
+
+    <!-- Grid View -->
+    <link href="https://www.kdsaccessories.com/css/og-grid-component.css" rel="stylesheet" type="text/css"/>
+    <!-- Grid View End -->
+
+    <!-- Accordion Start -->
+    <link href="https://www.kdsaccessories.com/css/accordion/accordion.css" rel="stylesheet">
+    <!-- Accordion End -->
+
+    <link href="https://www.kdsaccessories.com/css/style-responsive.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+<!--[if lt IE 9]>
+    <script src="https://www.kdsaccessories.com/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+
+    <!-- JS Min
+    ================================================== -->
+    <script src="https://code.jquery.com/jquery-1.8.2.min.js"></script>
+
+</head>
+<body>
+
+<div id="header">
+    <!-- mobile menu -->
+    <a class="mobilemenu" href="#menu">Responsive Mobile Menu</a>
+    <!-- mobile menu end -->
+    <!-- mobile view logo -->
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="mobile-menu-logo">
+                    <a href="/"><img src="https://www.kdsaccessories.com/images/mobile-logo.png"></a>
+                </div>
+                <div class="small-mobile-menu-logo">
+                    <a href="/"><img src="https://www.kdsaccessories.com/images/small-mobile-logo.png"></a>
+                </div>
+            </div><!-- END .col -->
+        </div><!-- END .row -->
+    </div>
+    <!-- mobile view logo end -->
+
+    <style>
+    .blink_me {
+        animation: blinker 2s linear infinite;
+    }
+
+    @keyframes  blinker {
+        50% {
+            opacity: 0;
+        }
+    }
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-12">
+            <div class="row header-navbar-container">
+                <div class="col-xs-3 col-sm-3 col-md-3">
+                    <div class="logo">
+                        <a href="https://www.kdsaccessories.com"><img src="https://www.kdsaccessories.com/images/logo.png"></a>
+                    </div>
+                </div>
+                <div class="col-xs-9 col-sm-9 col-md-9">
+                    <div class="logo">
+                        <ul>
+                            
+                            <li class=""><a
+                                    href="https://www.kdsaccessories.com/press-talk">Press
+                                    Talk</a></li>
+                            <li>|</li>
+                            <li class=""><a href="https://www.kdsaccessories.com/career">Career</a>
+                            </li>
+                            <li>|</li>
+                            <li class=""><a href="https://www.kdsaccessories.com/gallery">Gallery</a>
+                            </li>
+                            <li>|</li>
+                            <li class=""><a
+                                    href="https://www.kdsaccessories.com/contact-us">Contact
+                                    Us</a></li>
+                            <!-- <li>|</li>
+                            <li><a href="#"><img src="images/icons/Facebook_logo_32 (1).png" style="width: 28px;"></a></li> -->
+                        </ul>
+                    </div>
+                    <div class="header-menu-bar">
+
+                        <div id="fdw">
+                            <nav>
+                                <ul>
+                                    <li class=""><a href="https://www.kdsaccessories.com">Home<span
+                                                class="arrow"></span></a>
+                                    </li>
+                                    <li class="">
+                                        <a href="https://www.kdsaccessories.com/about-us/our-profile">About Us</a>
+                                        <ul style="display: none;" class="sub_menu">
+                                            <li class="arrow_top"></li>
+                                            <li><a href="https://www.kdsaccessories.com/about-us/our-profile">Our Profile </a></li>
+                                            <li><a href="https://www.kdsaccessories.com/about-us/board-of-directors">Board <i
+                                                        style="text-transform: lowercase;font-style: normal;">of</i>
+                                                    Directors</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/about-us/management-team">Management Team</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/about-us/vision-and-values">Vision &amp; Values </a>
+                                            </li>
+                                            <li><a href="https://www.kdsaccessories.com/about-us/recognition">Recognition</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/about-us/kds-group">KDS Group</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/about-us/publications">Publications</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/about-us/csr">CSR</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="">
+                                        <a href="https://www.kdsaccessories.com/products/product-and-services">Products</a>
+                                        <ul style="display: none; overflow: visible;" class="sub_menu">
+                                            <li class="arrow_top"></li>
+                                            <li><a href="https://www.kdsaccessories.com/products/general-packaging">General Packaging</a>
+                                            </li>
+                                            <li><a href="https://www.kdsaccessories.com/products/sewing-thread">Sewing Threads</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/products/hanger">Hangers</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/products/poly-bags">Poly Bags</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/products/buttons">Buttons</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/products/gum-tapes">Gum Tapes</a></li>
+                                            <li class="softline_li">
+                                                <a href="#">Soft-Line Packaging</a>
+                                                <ul class="softline_ul">
+                                                    <li><a href="https://www.kdsaccessories.com/products/woven-label">Woven Labels</a></li>
+                                                    <li><a href="https://www.kdsaccessories.com/products/printed-fabric-label">Printed
+                                                            Fabric Labels</a>
+                                                    </li>
+                                                    <li><a href="https://www.kdsaccessories.com/products/elastic">Elastics &amp; Narrow
+                                                            <br>Fabrics</a>
+                                                    </li>
+                                                    <li><a href="https://www.kdsaccessories.com/products/heat-transfer">Heat Transfers</a>
+                                                    </li>
+                                                    <li><a href="https://www.kdsaccessories.com/products/offset-printing">Offset
+                                                            Printing</a></li>
+                                                </ul>
+                                            </li>
+                                            <!-- <li><a href="woven-label.php">Woven Labels</a></li>
+                                            <li><a href="printed-fabric-label.php">Printed Fabric Labels</a></li>
+                                            <li><a href="elastic.php">Narrow Fabric Labels</a></li>
+                                            <li><a href="heat-transfer.php">Heat Transfers</a></li>
+                                            <li><a href="offset-printing.php">Offset Printing</a></li> -->
+                                        </ul>
+                                    </li>
+
+                                    <li class="">
+                                        <a href="https://www.kdsaccessories.com/operation-strength/client-relation">Operation Strength<span
+                                                class="arrow"></span></a>
+                                        <ul style="display: none;" class="sub_menu">
+                                            <li class="arrow_top"></li>
+                                            <li><a href="https://www.kdsaccessories.com/operation-strength/client-relation">Client
+                                                    Relation</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/operation-strength/supply-chain-mgmt">Supply
+                                                    Chain MGMT</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/operation-strength/hrd-and-hris">HRD &amp; HRIS</a>
+                                            </li>
+                                            <li><a href="https://www.kdsaccessories.com/operation-strength/people">People+</a></li>
+                                            <!-- <li><a href="r-and-d.php">R &amp; D</a></li> -->
+                                            <li><a href="https://www.kdsaccessories.com/operation-strength/worldwide-operation">Worldwide
+                                                    Operation</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="">
+                                        <a href="https://www.kdsaccessories.com/investor-information/business-affair">Investor
+                                            Information<span
+                                                class="arrow"></span></a>
+                                        <ul style="display: none;" class="sub_menu">
+                                            <li class="arrow_top"></li>
+                                            <li><a href="https://www.kdsaccessories.com/investor-information/business-affair">Business
+                                                    Affairs</a></li>
+                                            <li>
+                                                <a href="https://www.kdsaccessories.com/investor-information/shareholders">Shareholders</a>
+                                            </li>
+                                            <li><a href="https://www.kdsaccessories.com/investor-information/code-of-conduct">Code of
+                                                    Conduct</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/investor-information/ipo-information">IPO
+                                                    Information</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/investor-information/unpaidunclaimed">Unpaid/Unclaimed
+                                                    Info</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/investor-information/reports-and-information">Reports
+                                                    &amp; Information</a>
+                                            <li><a href="https://www.kdsaccessories.com/investor-information/buy-sale-shares-sponsors-directors">Buy/Sales of Shares</a></li>
+                                            </li>
+                                            <li><a href="https://www.kdsaccessories.com/investor-information/related-links">Related
+                                                    Links</a></li>
+                                            <li><a href="https://www.kdsaccessories.com/investor-information/send-query">Send Query</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="">
+                                        <a href="https://www.kdsaccessories.com/production-facility">Production Facility<span
+                                                class="arrow"></span></a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div><!-- fdw end -->
+                    </div>
+                </div>
+            </div>
+        </div><!-- End .col -->
+    </div><!-- End .row -->
+</div><!-- End .container -->
+</div><!-- End #header -->
+
+    <div class="body">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12">
+                    <div style="margin-top: 100px;margin-bottom: 100px" class="related-products-container product-header-container">
+                        <div class="product-header">
+                           

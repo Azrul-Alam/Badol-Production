@@ -1,0 +1,107 @@
+.pageContent {
+    width: 100%;
+}
+
+.accordion {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 0 0px;
+    border-top: none;
+    border-left: none;
+}
+
+.accordion ul {
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: block;
+    width: 100%;
+}
+
+.accordion li {
+    background: #417e2a;
+    cursor: pointer;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    float: left;
+    display: block;
+    width: 100%;
+    margin-bottom: 7px;
+    font-size: 17px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.accordion li.active>a {
+    background: url('close.gif') no-repeat center right;
+}
+
+.accordion li a:hover {
+    color: #fff;
+}
+
+.accordion li a .accordion-icon {
+    background-image: url('../../images/icons/accordion.png');
+    width: 40px;
+    height: 13px;
+    display: block;
+    float: right;
+    margin-top: 8px;
+}
+
+.accordion li a .title-text {
+    float: left;
+}
+
+.accordion li a .title {
+    /* font-weight: bold;*/
+}
+
+.accordion li a span .left-arrow {
+    background-image: url('../../images/framework/left-arrow.png');
+    width: 32px;
+    height: 32px;
+    display: block;
+    float: left;
+}
+
+.accordion li a span .right-arrow {
+    background-image: url('../../images/framework/right-arrow.png');
+    width: 32px;
+    height: 32px;
+    display: block;
+    float: left;
+}
+
+.accordion li div {
+    padding: 0px;
+    background: #fff;
+    display: block;
+    clear: both;
+}
+
+.accordion li div ul {
+    background-color: #fff;
+    padding-left: 10px;
+}
+
+.accordion li div ul li {
+    margin: 5px 0px;
+}
+
+.accordion a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 10px;
+    display: block;
+    cursor: pointer;
+    height: 70px;
+    padding-top: 22px;
+}
+
+/* Level 2 */
+
+.accordion li ul li {
+    background: #fff;
+    font-size: 15px;
+}
